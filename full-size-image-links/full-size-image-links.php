@@ -9,7 +9,7 @@ Author URI: https://meowapps.com
 Text Domain: full-size-image-links
 Domain Path: /languages
 
-:icensed under the MIT license:
+Licensed under the MIT license:
 http://www.opensource.org/licenses/mit-license.php
 */
 
